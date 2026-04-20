@@ -1,17 +1,21 @@
-# notes_share
+NotesShare - Phase 1
 
-A new Flutter project.
+NotesShare is a mobile application built with Flutter to help university students share and access study materials easily.
 
-## Getting Started
+📱 Features (Phase 1)
+- **Authentication:** Custom Login and Signup UI.
+- **Organization:** Browse materials by Semester and Subject.
+- **Search:** Global search bar to find specific notes.
+- **Note Management:** View note details and upload new study materials.
+- **Navigation:** Responsive Sidebar (Drawer) and Floating Action Buttons.
 
-This project is a starting point for a Flutter application.
+🛠️ Built With
+- **Framework:** Flutter
+- **Language:** Dart
+- **Design:** Material Design 3
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+🚀 How to Run
+1. Clone this repository.
+2. Ensure Flutter is installed on your machine.
+3. Run `flutter pub get` in the terminal.
+4. Run `flutter run` on your emulator or physical device.
